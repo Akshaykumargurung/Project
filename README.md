@@ -1,2 +1,1 @@
-# Project
-## DEMO PROJECT
+# DEMO PROJECT
